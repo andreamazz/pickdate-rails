@@ -16,7 +16,7 @@ pickdate-rails requires Rails 3, since it depends on the asset pipeline.
 
 Add this to your gemfile:
 ```
-gem 'pickdate-rails'
+gem 'pickdate'
 ```
 
 You can now add the required javascript files to your ```application.js```:
