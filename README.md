@@ -1,6 +1,8 @@
 pickdate-rails
 ==================
 
+[![Build Status](https://travis-ci.org/andreamazz/pickdate-rails.png)](https://travis-ci.org/andreamazz/pickdate-rails)
+
 Pickdate.js for Rails
 --------------------
 pickdate-rails is a Ruby gem that wraps [Amsul](https://github.com/amsul)'s [Pickdate.js](http://amsul.ca/pickadate.js/) plugin, allowing its stylesheets and Javascript files to be served via the Rails asset pipeline.
