@@ -21,16 +21,16 @@ gem 'pickdate-rails'
 
 You can now add the required javascript files to your ```application.js```:
 ```
-//= require picker.js
-//= require picker.date.js
-//= require picker.time.js
+//= require picker
+//= require picker.date
+//= require picker.time
 ```
 
 And the stylesheets (note that they are placed in the ```picker``` directory):
 ```
-@import 'picker/default.css'
-@import 'picker/default.date.css'
-@import 'picker/default.time.css'
+@import 'picker/default'
+@import 'picker/default.date'
+@import 'picker/default.time'
 ```
 
 Please refer to the [Pickdate.js documentation](http://amsul.ca/pickadate.js/) to make sure you are including the correct files.
